@@ -290,7 +290,7 @@ export default function Home({ photos }) {
 
             <div className="mt-6 flex flex-wrap gap-2">
               <Pill>Likes: buns, cozy warm place</Pill>
-              <Pill>Hates: veterenars, gigantic crows</Pill>
+              <Pill > Hates: vets, gigantic crows </Pill>
               <Pill>Superpower: vimpire teeth</Pill>
             </div>
           </div>
